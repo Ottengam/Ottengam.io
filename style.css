@@ -1,0 +1,21 @@
+.header {
+    color: #f24504;
+    float: left;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.sidebar {
+    float: left;
+}
+
+.content {
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
