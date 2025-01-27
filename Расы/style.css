@@ -1,0 +1,28 @@
+body {
+    font-size: 20px;
+    color: yellow;
+}
+
+td {
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.mainpic {
+    position: absolute;
+    left: 1550px;
+}
+
+.button-style {
+    display: inline-block;
+    padding: 5px 150px;
+    background: #000dfb;
+    border: 1px solid #00fff7ff;
+    color: yellow;
+    text-decoration: none;
+    text-align: center;
+}
+
+.button-style:hover, .button-style:focus {
+    background: #ff0000;
+}
