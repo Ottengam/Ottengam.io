@@ -1,21 +1,9 @@
-.header {
-    color: #f24504;
-    float: left;
+body {
+    font-size: 20px;
+    color: yellow;
 }
 
-.navigation {
-    text-align: center;
-}
-
-.sidebar {
-    float: left;
-}
-
-.content {
-    text-align: center;
-}
-
-.footer {
-    position: absolute;
-    bottom: 0;
+td {
+    padding: 10px;
+    padding-left: 20px;
 }
