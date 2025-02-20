@@ -4,20 +4,20 @@ body {
 }
 
 td {
-    padding: 10px;
-    padding-left: 20px;
+    padding: 1vw;
+    padding-left: 2vw;
 }
 
 .mainpic {
     position: absolute;
-    left: 1550px;
+    left: 155vw;
 }
 
 .button-style {
     display: inline-block;
-    padding: 5px 150px;
+    padding: 0,5vw 15vw;
     background: #000dfb;
-    border: 1px solid #00fff7ff;
+    border: 0,1vw solid #00fff7ff;
     color: yellow;
     text-decoration: none;
     text-align: center;
