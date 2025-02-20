@@ -23,6 +23,33 @@ td {
     text-align: center;
 }
 
-    .button-style:hover, .button-style:focus {
-        background: #ff0000;
-    }
+.button-style:hover, .button-style:focus {
+    background: #ff0000;
+}
+
+.header {
+    background: yellow;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+.nava {
+    font-size: 2vw;
+    color: blue;
+    text-decoration: none;
+}
+
+.nava:hover, .nava:focus {
+    color: red;
+}
