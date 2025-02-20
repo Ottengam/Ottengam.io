@@ -31,17 +31,26 @@ td {
     background: #342d2d;
     position: fixed;
     top: 0;
-    width: 100%;
+    left: 0;
+    right: 0;
+    border-bottom: 0.1vw solid #00fff7ff;
+    border-left: 0.1vw solid #00fff7ff;
+    border-right: 0.1vw solid #00fff7ff;
+    border-bottom-left-radius: 60px 60px;
+    border-bottom-right-radius: 60px 60px;
+    width: 99vw;
     z-index: 1000;
-    nav ul {
+    text-align: center;
+}
+
+nav ul {
     display: flex;
     list-style: none;
     margin: 0;
-    padding: 0;
 }
 
 nav li {
-    margin-right: 20px;
+    margin-left: 80px;
 }
 
 .nava {
