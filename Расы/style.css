@@ -28,6 +28,14 @@ td {
     color: red;
 }
 
+.header2 {
+    background: #342d2d;
+    position: sticky;
+    top: 2.3vw;
+    height: 2vw;
+    z-index: 10;
+}
+
 .header {
     background: #342d2d;
     position: fixed;
@@ -54,12 +62,12 @@ nav li {
     margin-left: 80px;
 }
 
-.nava {
-    font-size: 2vw;
+a {
+    font-size: 1.5vw;
     color: blue;
     text-decoration: none;
 }
 
-.nava:hover, .nava:focus {
+a:hover, .nava:focus {
     color: red;
 }
