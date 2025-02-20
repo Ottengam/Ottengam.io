@@ -1,5 +1,5 @@
 body {
-    font-size: 2vw;
+    font-size: 1.3vw;
     color: yellow;
 }
 
@@ -15,14 +15,14 @@ td {
 
 .button-style {
     display: inline-block;
-    padding: 0,5vw 15vw;
+    padding: 0.5vw 15vw;
     background: #000dfb;
-    border: 0,1vw solid #00fff7ff;
+    border: 0.1vw solid #00fff7ff;
     color: yellow;
     text-decoration: none;
     text-align: center;
 }
 
-.button-style:hover, .button-style:focus {
-    background: #ff0000;
-}
+    .button-style:hover, .button-style:focus {
+        background: #ff0000;
+    }
