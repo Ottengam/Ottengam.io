@@ -16,15 +16,16 @@ td {
 .button-style {
     display: inline-block;
     padding: 0.5vw 12vw;
-    background: #000dfb;
+    background: #342d2d;
     border: 0.1vw solid #00fff7ff;
-    color: yellow;
+    border-radius: 60px;
+    color: blue;
     text-decoration: none;
     text-align: center;
 }
 
 .button-style:hover, .button-style:focus {
-    background: #ff0000;
+    color: red;
 }
 
 .header {
