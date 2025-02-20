@@ -3,12 +3,7 @@ body {
     color: yellow;
 }
 
-byhj {
-    font-size: 20px;
-    color: yellow;
-}
-
 td {
-    padding: 10px;
-    padding-left: 20px;
+    padding: 1vw;
+    padding-left: 2vw;
 }
