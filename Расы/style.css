@@ -72,3 +72,7 @@ a {
 a:hover, .nava:focus {
     color: red;
 }
+
+.nava{
+    font-size: 2vw;
+}
