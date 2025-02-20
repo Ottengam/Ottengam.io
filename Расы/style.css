@@ -37,6 +37,7 @@ td {
 }
 
 .header {
+    font-size: 2vw;
     background: #342d2d;
     position: fixed;
     top: 0;
