@@ -1,7 +1,7 @@
 body {
     font-size: 1.3vw;
-    color: #ffe81f;
-    background: url('bg.jpg') no-repeat center center;
+    color: yellow;
+    background-image: url('E://D&D_Star_Wars/Images/main.jpg');
     background-attachment: fixed;
     background-size: 100vw 100vh;
 }
@@ -31,6 +31,15 @@ td {
         color: red;
         border: 0.1vw solid red;
     }
+
+.maindiv {
+    background-image: url('E://D&D_Star_Wars/Images/bg.jpg');
+    width: 80%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+}
 
 .header2 {
     background: #342d2d;
@@ -71,6 +80,10 @@ nav li {
     margin-left: 80px;
 }
 
+.nava{
+    font-size: 2vw;
+}
+
 a {
     font-size: 1.5vw;
     color: blue;
@@ -79,8 +92,4 @@ a {
 
 a:hover, .nava:focus {
     color: red;
-}
-
-.nava{
-    font-size: 2vw;
 }
