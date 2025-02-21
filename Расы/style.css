@@ -17,7 +17,7 @@ td {
     display: inline-block;
     padding: 0.5vw 12vw;
     background: #342d2d;
-    border: 0.1vw solid #00fff7ff;
+    border: 0.1vw solid blue;
     border-radius: 60px;
     color: blue;
     text-decoration: none;
@@ -26,6 +26,7 @@ td {
 
 .button-style:hover, .button-style:focus {
     color: red;
+    border: 0.1vw solid red;
 }
 
 .header2 {
