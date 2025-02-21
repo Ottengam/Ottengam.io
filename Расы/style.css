@@ -33,12 +33,14 @@ td {
     }
 
 .maindiv {
-    background-image: url('bg.jpg');
+    background-image: url('E://D&D_Star_Wars/Images/bg.jpg');
     width: 80%;
     position: absolute;
     top: 60%;
     left: 50%;
     transform: translateX(-50%);
+    padding: 2vw 2vh;
+    border-radius: 2vw;
 }
 
 .header2 {
