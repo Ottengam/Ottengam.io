@@ -1,6 +1,9 @@
 body {
     font-size: 1.3vw;
     color: #ffe81f;
+    background: url('E://D&D_Star_Wars/Images/bg.jpg') no-repeat center center;
+    background-attachment: fixed;
+    background-size: 100vw;
 }
 
 td {
