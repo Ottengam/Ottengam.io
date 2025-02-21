@@ -1,7 +1,7 @@
 body {
     font-size: 1.3vw;
     color: yellow;
-    background-image: url('E://D&D_Star_Wars/Images/main.jpg');
+    background-image: url('main.jpg');
     background-attachment: fixed;
     background-size: 100vw 100vh;
 }
@@ -33,7 +33,7 @@ td {
     }
 
 .maindiv {
-    background-image: url('E://D&D_Star_Wars/Images/bg.jpg');
+    background-image: url('bg.jpg');
     width: 80%;
     position: absolute;
     top: 60%;
