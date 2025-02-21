@@ -11,11 +11,6 @@ td {
     padding-left: 2vw;
 }
 
-.mainpic {
-    position: absolute;
-    left: 155vw;
-}
-
 .button-style {
     display: inline-block;
     padding: 0.5vw 8vw;
