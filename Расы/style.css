@@ -1,7 +1,7 @@
 body {
     font-size: 1.3vw;
     color: #ffe81f;
-    background: url('https://ottengam.github.io/Ottengam.io/Images/bg.jpg') no-repeat center center;
+    background: url('bg.jpg') no-repeat center center;
     background-attachment: fixed;
     background-size: 100vw 100vh;
 }
