@@ -24,10 +24,10 @@ td {
     text-align: center;
 }
 
-.button-style:hover, .button-style:focus {
-    color: red;
-    border: 0.1vw solid red;
-}
+    .button-style:hover, .button-style:focus {
+        color: red;
+        border: 0.1vw solid red;
+    }
 
 .header2 {
     background: #342d2d;
@@ -48,10 +48,15 @@ td {
     border-right: 0.1vw solid #00fff7ff;
     border-bottom-left-radius: 60px 60px;
     border-bottom-right-radius: 60px 60px;
+    border-color: blue;
     width: 99vw;
     z-index: 1000;
     text-align: center;
 }
+
+    .header:hover, header:focus{
+        border-color: red;
+    }
 
 nav ul {
     display: flex;
