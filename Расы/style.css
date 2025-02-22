@@ -82,6 +82,7 @@ td {
 }
 
     .header:hover, header:focus{
+        background: rgb(0, 0, 0);
         border-color: red;
     }
 
