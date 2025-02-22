@@ -8,13 +8,30 @@ body {
 
 td {
     padding: 1vw;
-    padding-left: 2vw;
+    padding-left: 1vw;
+    text-align: center;
 }
+
+.button {
+    display: inline-block;
+    padding: 0.5vw 1vw;
+    background: rgb(52, 45, 45, .6);
+    border: 0.1vw solid blue;
+    border-radius: 60px;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+}
+
+    .button:hover, .button:focus {
+        color: red;
+        border: 0.1vw solid red;
+    }
 
 .button-style {
     display: inline-block;
     padding: 0.5vw 7vw;
-    background: #342d2d;
+    background: rgb(52, 45, 45, .6);
     border: 0.1vw solid blue;
     border-radius: 60px;
     color: blue;
@@ -40,7 +57,7 @@ td {
 }
 
 .header2 {
-    background: #342d2d;
+    background: rgb(52, 45, 45, .6);
     position: sticky;
     top: 2.3vw;
     height: 2vw;
@@ -48,7 +65,7 @@ td {
 }
 
 .header {
-    background: #342d2d;
+    background: rgb(0, 0, 0, .8);
     position: fixed;
     top: 0;
     left: 0;
