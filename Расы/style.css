@@ -19,8 +19,8 @@ td {
     border: 0.1vw solid blue;
     border-radius: 60px;
     color: blue;
-    text-decoration: none;
     text-align: center;
+    text-indent: 0;
 }
 
     .button:hover, .button:focus {
